@@ -19,7 +19,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Visit](https://www.frontendmentor.io/solutions/mobile-first-page-using-css-flexbox-HO-sS1LQr7)
-- Live Site URL: [Visit](https://akibraza91.github.io/Recipe-Page/)
+- Live Site URL: [Visit](https://akibraza91.github.io/recipe-page/)
 
 ### Built with
 
